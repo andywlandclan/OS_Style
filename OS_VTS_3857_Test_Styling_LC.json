@@ -704,22 +704,6 @@
       }
     },
     {
-      "id": "OS/TopographicArea_1/Rough Grassland/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        22
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Rough Grassland/0"
-      }
-    },
-    {
       "id": "OS/TopographicArea_1/Scree/4",
       "type": "fill",
       "source": "esri",
@@ -832,70 +816,6 @@
       }
     },
     {
-      "id": "OS/TopographicArea_1/Scrub/3",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        18
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Scrub/3"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Scrub/2",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        18
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Scrub/2"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Scrub/1",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        18
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Scrub/1"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Scrub/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        18
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Scrub/0"
-      }
-    },
-    {
       "id": "OS/TopographicArea_1/Coppice Or Osiers/4",
       "type": "fill",
       "source": "esri",
@@ -909,22 +829,6 @@
       "layout": {},
       "paint": {
         "fill-color": "#FFFFFF"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Coppice Or Osiers/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        17
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Coppice Or Osiers/0"
       }
     },
     {
@@ -1285,7 +1189,6 @@
         0
       ],
       "minzoom": 7,
-      "maxzoom": 16,
       "layout": {
         "line-join": "round"
       },
