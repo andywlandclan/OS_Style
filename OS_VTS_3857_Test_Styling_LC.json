@@ -198,7 +198,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#D3DBCE",
+        "line-color": "#D9D9D9",
         "line-width": {
           "stops": [
             [
@@ -1021,22 +1021,6 @@
       "layout": {},
       "paint": {
         "fill-color": "#FFFFFF"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Nonconiferous Tree/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        13
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Nonconiferous Tree/0"
       }
     },
     {
