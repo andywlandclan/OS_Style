@@ -364,7 +364,7 @@
       "minzoom": 16,
       "layout": {},
       "paint": {
-        "fill-color": "#D9D9D9"
+        "fill-color": "#F2F2F2"
       }
     },
     {
@@ -1189,6 +1189,7 @@
         0
       ],
       "minzoom": 7,
+	  "maxzoom": 15,
       "layout": {
         "line-join": "round"
       },
@@ -5671,7 +5672,7 @@
         "icon-rotation-alignment": "map"
       },
       "paint": {
-        "icon-color": "#0099FF"
+        "icon-color": "#262626"
       }
     },
     {
