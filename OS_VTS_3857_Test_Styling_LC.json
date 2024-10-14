@@ -2373,7 +2373,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#D06800",
+        "line-color": "",
         "line-dasharray": [
           4,
           4
