@@ -250,22 +250,6 @@
       }
     },
     {
-      "id": "OS/TopographicArea_1/Landform Manmade",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        47
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-color": "#FFFFFF"
-      }
-    },
-    {
       "id": "OS/TopographicArea_1/Tidal Water",
       "type": "fill",
       "source": "esri",
@@ -286,11 +270,6 @@
       "type": "fill",
       "source": "esri",
       "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        45
-      ],
       "minzoom": 16,
       "layout": {},
       "paint": {
@@ -318,11 +297,6 @@
       "type": "fill",
       "source": "esri",
       "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        42
-      ],
       "minzoom": 16,
       "layout": {},
       "paint": {
@@ -390,7 +364,7 @@
       "minzoom": 16,
       "layout": {},
       "paint": {
-        "fill-color": "#D5EFF8"
+        "fill-color": "#D9D9D9"
       }
     },
     {
@@ -1126,7 +1100,7 @@
       "minzoom": 16,
       "layout": {},
       "paint": {
-        "fill-color": "#D5EFF8"
+        "fill-color": "#D9D9D9"
       }
     },
     {
@@ -1303,22 +1277,6 @@
       "layout": {},
       "paint": {
         "fill-pattern": "OS/TopographicArea_1/Cliff"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Slope",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        31
-      ],
-      "minzoom": 16,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Slope"
       }
     },
     {
@@ -2496,7 +2454,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#4EAAD0",
+        "line-color": "#646464",
         "line-width": {
           "stops": [
             [
