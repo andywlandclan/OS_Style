@@ -2455,7 +2455,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#646464",
+        "line-color": "#4EAAD0",
         "line-width": {
           "stops": [
             [
