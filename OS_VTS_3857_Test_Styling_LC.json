@@ -992,22 +992,6 @@
       }
     },
     {
-      "id": "OS/TopographicArea_1/Mixed Woodland/4",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        12
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-color": "#FFFFFF"
-      }
-    },
-    {
       "id": "OS/TopographicArea_1/Footbridge",
       "type": "fill",
       "source": "esri",
