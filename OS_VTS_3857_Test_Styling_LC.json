@@ -2545,7 +2545,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#A4DAEB",
+        "line-color": "#262626",
         "line-width": 1
       }
     },
@@ -2566,7 +2566,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "#A4DAEB",
+        "line-color": "#262626",
         "line-width": 1
       }
     },
@@ -5928,7 +5928,7 @@
         "icon-rotation-alignment": "map"
       },
       "paint": {
-        "icon-color": "#0099FF"
+        "icon-color": "#262626"
       }
     },
     {
@@ -9645,7 +9645,7 @@
       },
       "paint": {
         "icon-color": "rgba(255,0,0,0)",
-        "text-color": "#1CA5D4",
+        "text-color": "#262626",
         "text-halo-color": "#FAFAF3",
         "text-halo-width": 1.5
       }
