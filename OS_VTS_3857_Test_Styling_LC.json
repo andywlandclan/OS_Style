@@ -960,22 +960,6 @@
       }
     },
     {
-      "id": "OS/TopographicArea_1/Orchard/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        16
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Orchard/0"
-      }
-    },
-    {
       "id": "OS/TopographicArea_1/Coniferous Tree/4",
       "type": "fill",
       "source": "esri",
@@ -989,22 +973,6 @@
       "layout": {},
       "paint": {
         "fill-color": "#FFFFFF"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Coniferous Tree/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        14
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Coniferous Tree/0"
       }
     },
     {
@@ -1053,22 +1021,6 @@
       "layout": {},
       "paint": {
         "fill-color": "#FFFFFF"
-      }
-    },
-    {
-      "id": "OS/TopographicArea_1/Mixed Woodland/0",
-      "type": "fill",
-      "source": "esri",
-      "source-layer": "TopographicArea_1",
-      "filter": [
-        "==",
-        "_symbol",
-        12
-      ],
-      "minzoom": 15,
-      "layout": {},
-      "paint": {
-        "fill-pattern": "OS/TopographicArea_1/Mixed Woodland/0"
       }
     },
     {
